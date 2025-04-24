@@ -5,7 +5,7 @@ import CadastroFilme from './pages/cadastroFilme/CadastroFilme.jsx';
 function App() {
   return (
     <>
-    {/* chamar as páginas */}
+      {/* chamar as páginas */}
       {/* <Login/> */}
       <CadastroFilme/>
     </>
