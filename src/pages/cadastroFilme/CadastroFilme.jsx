@@ -9,8 +9,13 @@ const CadastroFilme = () => {
         <>
             <Header/>
             <main>
-                <Cadastro/>
-                <Lista/>
+                <Cadastro 
+                    tituloCadastro="Cadastro de Filme"
+                    placeholder = "filme"
+                />
+                <Lista
+                    tituloLista = "Lista de Filmes"
+                />
             </main>
             <Footer/>
         </>
