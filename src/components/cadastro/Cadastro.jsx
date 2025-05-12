@@ -33,6 +33,7 @@ const Cadastro = (props) => {
                             <option value="">op 3</option>
                         </select>
                     </div>
+
                     <Botao nomeDoBotao="Cadastrar" />
                 </div>
             </form>
